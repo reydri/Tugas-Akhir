@@ -1,5 +1,5 @@
 # Tugas-Akhir
-##Klasifikasi Kualitas Biji Kedelai Menggunakan SVM
+## Klasifikasi Kualitas Biji Kedelai Menggunakan SVM
 
 #Deskripsi 
 1. Jalankan file Cropping.ipynb 
